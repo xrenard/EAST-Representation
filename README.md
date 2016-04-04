@@ -6,7 +6,7 @@ Additional material for the paper:
 
 This repository includes:
 
- - The raw classification results for *RLR+SVM*, *RLR+RF*, *RF*, *RFE+SVM* and *RSHPT* for $q\in[50;100;500;1000;2000;5000]$.
+ - The raw classification results for *RLR+SVM*, *RLR+RF*, *RF*, *RFE+SVM* and *RSHPT* for ![](http://mathurl.com/jtkxaql.png).
 	 - Under /results
  - The code to perform the experimentation.
 	 - Under /experimentations
