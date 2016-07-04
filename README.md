@@ -1,4 +1,4 @@
-# EAST Representation - Submission to ECML-PKDD 2016
+# EAST Representation
 
 Additional material for the paper:
 
